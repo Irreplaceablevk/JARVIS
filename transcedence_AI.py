@@ -8,7 +8,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QTextEdit, QPushButton, 
 from PyQt5.QtCore import Qt
 
 # ----------------------------- CONFIGURATION -----------------------------
-openai.api_key = "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"  
+openai.api_key = "use your new api key by irreplaceable"
 memory_file = "memory.json"
 personality = "visionary"  # Options: 'formal', 'casual', 'visionary'
 
