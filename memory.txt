@@ -1,0 +1,6 @@
+name:John
+favorite_color:blue
+hobby:robotics
+goal:build a transcendence AI
+my name:john
+my name:john
